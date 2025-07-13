@@ -1,0 +1,12 @@
+[package]
+name = "parser"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "parser"
+path = "src/lib.rs"
+
+[dependencies]
+lexer = { path = "../lexer" }
+common = { path = "../common" }
