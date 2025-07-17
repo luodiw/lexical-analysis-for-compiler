@@ -66,6 +66,3 @@ Distributed under the MIT License. See the LICENSE file for more details.
 
 ### Acknowledgements
 Special thanks to Professor Aaron Cass of Union College for his guidance and expertise throughout the development of this project.
-
-### Contact
-For any inquiries, contact Caleb L'Italien at litaliencaleb@gmail.com.
